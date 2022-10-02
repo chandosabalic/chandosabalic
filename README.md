@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Tai</h1>
 <h3 align="center">A regular guy from Viet Nam</h3>
 
-- 🌱 I’m currently learning **React, GraphQL, C++**
+- 🌱 I’m currently working with **Python, VueJs**, and learning C++
 
 - 📫 How to reach me **chandosabalic@gmail.com**
 
