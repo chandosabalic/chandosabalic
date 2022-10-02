@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Tai</h1>
-<h3 align="center">A regular guy from Viet Nam</h3>
+<h3 align="center">A web developer from Viet Nam</h3>
 
-- 🌱 I’m currently working with **Python, VueJs**, and learning **C++, ThreeJS**
+- 🔭 I’m currently working with **Python, VueJs**, 🌱 and learning **C++, ThreeJS**
 
-- 📫 How to reach me **chandosabalic@gmail.com**
+- 📫 How to reach me **chandosabalic@gmail.com**, Linkedin: 
+<b><a href="https://www.linkedin.com/in/nguyen-tang-tan-tai
+" target="_blank">www.linkedin.com/in/nguyen-tang-tan-tai</a></b>
+
 
 - ⚡ Fun fact **Facts normaly not fun.**
 
