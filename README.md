@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Tai</h1>
 <h3 align="center">A web developer from Viet Nam</h3>
 
-- 🔭 I’m currently working with **Python, VueJs**, 🌱 and learning **C++, ThreeJS**
+- 🔭 I’m currently working as a backed developer. I often work with **Python, VueJs, Ubuntu, Docker, and some AWS services**, 🌱
 
 - 📫 How to reach me **chandosabalic@gmail.com**, Linkedin: 
 <b><a href="https://www.linkedin.com/in/nguyen-tang-tan-tai
